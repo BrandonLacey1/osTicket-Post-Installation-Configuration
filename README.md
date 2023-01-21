@@ -105,7 +105,7 @@ These are the roles that I was able to configure for the agents and the Supreme 
 <img src="https://i.imgur.com/Poy0pKK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is where as a admin I would configure the different SLA types for the ogranzation. So I would setup a SEV-A and this would have to be done ASAP being you would have 1 hour to do the task, SEV-B be middle proity with a 4 hour time limit as a SEV-C would be a ticket that would be 8 hours and worked during the normal businness times. 
 </p>
 <br />
 
